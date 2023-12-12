@@ -4,7 +4,7 @@ https://developers.line.biz/en/docs/messaging-api/using-rich-menus/
 
 https://developers.line.biz/zh-hant/services/bot-designer/  
     
-![image](https://github.com/miyachun/line-dige/blob/main/LINE_Bot_Designer.png)  
+![image](https://github.com/miyachun/line-rich-menus/blob/main/LINE_Bot_Designer.png)  
   
   {
   "size": {
@@ -91,4 +91,4 @@ https://developers.line.biz/zh-hant/services/bot-designer/
  }  
   
 
-![image](https://github.com/miyachun/line-dige/blob/main/demo.jpg)
+![image](https://github.com/miyachun/line-rich-menus/blob/main/demo.jpg)
