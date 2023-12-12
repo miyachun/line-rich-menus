@@ -1,4 +1,4 @@
-line Rich Menu Tab切換  
+Line Rich Menu Tab切換  
   
 https://developers.line.biz/en/docs/messaging-api/using-rich-menus/  
 
