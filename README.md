@@ -4,7 +4,6 @@ https://developers.line.biz/en/docs/messaging-api/using-rich-menus/
   
 
 Endpoints  
-  
 POST   /v2/bot/richmenu  
 POST   /v2/bot/richmenu/validate  
 POST   /v2/bot/richmenu/{richMenuId}/content  
