@@ -1,3 +1,6 @@
+#補充 "selected": true->在postman用舊的帳號會當機。
+#補充"selected": "true"->在py檔案，用舊的帳號可行。
+
 import requests
 import json
 
